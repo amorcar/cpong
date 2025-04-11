@@ -150,7 +150,7 @@ draw_game_frame() {
         (int)right_player.paddle.x, (int)right_player.paddle.y,
         (int)right_player.paddle.width, (int)right_player.paddle.height};
 
-    SDL_SetRenderDrawColor(renderer, WHITE_COLOR, SDL_ALPHA_OPAQUE);
+    SDL_SetRenderDrawColor(renderer, GREEN_COLOR, SDL_ALPHA_OPAQUE);
 
     SDL_RenderFillRect(renderer, &ball_rect);
     SDL_RenderFillRect(renderer, &left_pad_rect);

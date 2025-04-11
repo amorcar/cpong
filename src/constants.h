@@ -6,6 +6,7 @@
 
 #define WHITE_COLOR 255, 255, 255
 #define GRAY_COLOR 155, 155, 155
+#define GREEN_COLOR 0, 255, 0
 
 #define FPS 30
 #define FRAME_TARGET_TIME (1000 / FPS)
