@@ -19,6 +19,4 @@
 
 #define MAX_BOUNCE_ANGLE M_PI / 4 // 45 degrees
 
-#define FONT_PATH                                                              \
-    "/Users/alejandromorales/Library/Fonts/"                                   \
-    "GohuFontuni11NerdFontPropo-Regular.ttf"
+#define FONT_PATH "../font/GohuFontuni11NerdFontPropo-Regular.ttf"
